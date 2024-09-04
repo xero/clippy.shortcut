@@ -14,12 +14,13 @@ you can install them directly with these icloud links or via the shortcut files 
     - automatically sync ios clipboard contents to clippy history
     - https://www.icloud.com/shortcuts/217623a2bf214c9e8b7deec846597631
 
-[!> [!WARNING]
-> **touch only!** i cannot for the life of me figure out how to interact w/ the shortcuts pop-ups with the keyboard.
+> [!WARNING]
+> **touch only!**
+> i cannot for the life of me figure out how to interact w/ the shortcuts pop-ups with the keyboard.
 
 ## see also
 
-for syncing clipboards from osc52 terminals, like [blink](https://blink.sh), checkout my [yank](https://github.com/xero/dotfiles/blob/main/bin/.local/bin/yank) script.
+for syncing clipboards from osc52 aware terminals, like [blink](https://blink.sh), checkout my [yank](https://github.com/xero/dotfiles/blob/main/bin/.local/bin/yank) script.
 
 # license
 
