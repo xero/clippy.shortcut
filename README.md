@@ -22,12 +22,15 @@ you can install them directly with these icloud links or via the shortcut files 
 ## previews
 
 **main menu**
+
 <img src="https://raw.githubusercontent.com/xero/clippy.shortcut/previews/menu.jpg" width="350">
 
 **clipboard history**
+
 <img src="https://raw.githubusercontent.com/xero/clippy.shortcut/previews/view.jpg" width="350">
 
 **remove item(s)**
+
 <img src="https://raw.githubusercontent.com/xero/clippy.shortcut/previews/graveyard.jpg" width="350">
 
 ## see also
