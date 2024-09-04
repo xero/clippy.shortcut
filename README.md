@@ -1,4 +1,6 @@
-# clippy! 📎 ios clipboard manager shortcuts
+# clippy! 📎  ios clipboard manager shortcuts
+
+these run via the official apple shortcuts app. lauch them on your ipad via spotlight `^<space>clippy`. the history db saved in a hidden dot directory for your user.
 
 there are 3 shortcuts, but you only really _"need"_ clippy. the others add addition features.
 
@@ -14,12 +16,23 @@ you can install them directly with these icloud links or via the shortcut files 
     - automatically sync ios clipboard contents to clippy history
     - https://www.icloud.com/shortcuts/217623a2bf214c9e8b7deec846597631
 
-[!> [!WARNING]
-> **touch only!** i cannot for the life of me figure out how to interact w/ the shortcuts pop-ups with the keyboard.
+> [!WARNING]
+> **touch only!** you cannot interact w/ the shortcuts pop-ups with the keyboard :(
+
+## previews
+
+**main menu**
+![menu](https://raw.githubusercontent.com/xero/clippy.shortcut/previews/menu.jpg)
+
+**clipboard history**
+![view](https://raw.githubusercontent.com/xero/clippy.shortcut/previews/view.jpg)
+
+**remove item(s)**
+![graveyard](https://raw.githubusercontent.com/xero/clippy.shortcut/previews/graveyard.jpg)
 
 ## see also
 
-for syncing clipboards from osc52 terminals, like [blink](https://blink.sh), checkout my [yank](https://github.com/xero/dotfiles/blob/main/bin/.local/bin/yank) script.
+for syncing clipboards from osc52 aware terminals, like [blink](https://blink.sh), checkout my [yank](https://github.com/xero/dotfiles/blob/main/bin/.local/bin/yank) script.
 
 # license
 
